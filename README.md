@@ -4,11 +4,9 @@
 <a href=''><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 
 
+## Introduction
+SNAP은 멀티모달 정보를 활용해 긴 유튜브 영상에서 바이럴 숏츠를 뽑는 서비스입니다.
 
-SNAP helps to create viral shorts from long YouTube videos by utilizing multimodal information.
-
-- DEMO: currently shut down
-- PAPER: will be released
 
 
 ## Contents of Table
